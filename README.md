@@ -1,10 +1,8 @@
 ### Hi there 👋
 
 # 💫 About Me:
-- 🔭 I’m currently working on building my IoT skills!
-- 🌱 I’m currently learning AI kinds of stuff
-- 😄 I'm interested in IoT, AI, and Design
-
+- 🌱 I’m currently learning Marketing Analytics. It's a new field for me><
+- 🔭 I'm interested in IoT, AI, and Design (and now Marketing & Data Analytics!)
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/faliavicky) 
